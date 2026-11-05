@@ -1,0 +1,172 @@
+[
+  {
+    "id": "wep-01",
+    "slug": "vice-9mm-service-pistol",
+    "name": "VP-9 Service Pistol",
+    "category": "Handguns",
+    "price": 1450,
+    "magCapacity": 17,
+    "stats": {
+      "damage": 48,
+      "range": 52,
+      "fireRate": 65,
+      "accuracy": 78,
+      "mobility": 95
+    },
+    "description": "Standard high-reliability polymer sidearm with ambidextrous slide release and tritium night sights.",
+    "status": "confirmed"
+  },
+  {
+    "id": "wep-02",
+    "slug": "carbine-rifle-mk3",
+    "name": "Carbine Rifle Mod-3",
+    "category": "Rifles",
+    "price": 18500,
+    "magCapacity": 30,
+    "stats": {
+      "damage": 72,
+      "range": 84,
+      "fireRate": 74,
+      "accuracy": 82,
+      "mobility": 70
+    },
+    "description": "Versatile gas-operated assault rifle with Picatinny rail modularity, crisp two-stage trigger, and fast reload times.",
+    "status": "confirmed"
+  },
+  {
+    "id": "wep-03",
+    "slug": "micro-smg-compact",
+    "name": "Micro SMG Blitz",
+    "category": "Submachine Guns",
+    "price": 8200,
+    "magCapacity": 32,
+    "stats": {
+      "damage": 42,
+      "range": 44,
+      "fireRate": 96,
+      "accuracy": 58,
+      "mobility": 92
+    },
+    "description": "Blistering cyclic fire rate designed for drive-bys, hallway breaches, and concealed carry operations.",
+    "status": "confirmed"
+  },
+  {
+    "id": "wep-04",
+    "slug": "pump-tactical-shotgun",
+    "name": "Defender 12G Shotgun",
+    "category": "Shotguns",
+    "price": 4800,
+    "magCapacity": 8,
+    "stats": {
+      "damage": 94,
+      "range": 35,
+      "fireRate": 30,
+      "accuracy": 45,
+      "mobility": 65
+    },
+    "description": "Heavy-bore pump shotgun delivering devastating stopping power at close quarters with low recoil compensator.",
+    "status": "confirmed"
+  },
+  {
+    "id": "wep-05",
+    "slug": "covert-marksman-sniper",
+    "name": "Viper .308 Marksman",
+    "category": "Sniper Rifles",
+    "price": 42000,
+    "magCapacity": 10,
+    "stats": {
+      "damage": 96,
+      "range": 98,
+      "fireRate": 25,
+      "accuracy": 95,
+      "mobility": 40
+    },
+    "description": "Semi-automatic long-distance reconnaissance rifle equipped with thermal optic mounts and fluted bull barrel.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "wep-06",
+    "slug": "heavy-revolver-magnum",
+    "name": "Centurion .44 Magnum",
+    "category": "Handguns",
+    "price": 6400,
+    "magCapacity": 6,
+    "stats": {
+      "damage": 88,
+      "range": 68,
+      "fireRate": 32,
+      "accuracy": 80,
+      "mobility": 80
+    },
+    "description": "Stainless steel hand cannon capable of piercing vehicle windshields and disabling light engine blocks.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "wep-07",
+    "slug": "combat-pdw-suppressed",
+    "name": "Phantom PDW-9",
+    "category": "Submachine Guns",
+    "price": 14200,
+    "magCapacity": 30,
+    "stats": {
+      "damage": 55,
+      "range": 58,
+      "fireRate": 85,
+      "accuracy": 84,
+      "mobility": 88
+    },
+    "description": "Integrally suppressed personal defense weapon optimized for stealth incursions with sub-sonic ammunition.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "wep-08",
+    "slug": "sawn-off-double-barrel",
+    "name": "Sawed-Off Double Bore",
+    "category": "Shotguns",
+    "price": 3100,
+    "magCapacity": 2,
+    "stats": {
+      "damage": 98,
+      "range": 22,
+      "fireRate": 40,
+      "accuracy": 30,
+      "mobility": 90
+    },
+    "description": "Cut-down timber stock and barrels delivering instant wide-spread blast for getaway motorcycle encounters.",
+    "status": "confirmed"
+  },
+  {
+    "id": "wep-09",
+    "slug": "tactical-crossbow-commando",
+    "name": "Stalker Silent Crossbow",
+    "category": "Special",
+    "price": 19000,
+    "magCapacity": 1,
+    "stats": {
+      "damage": 90,
+      "range": 72,
+      "fireRate": 15,
+      "accuracy": 92,
+      "mobility": 60
+    },
+    "description": "Ultra-quiet compound hunting weapon with carbon arrows and optional tranquilizer tip conversion.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "wep-10",
+    "slug": "m249-squad-support-mg",
+    "name": "Titan Heavy MG",
+    "category": "Heavy Weapons",
+    "price": 68000,
+    "magCapacity": 100,
+    "stats": {
+      "damage": 86,
+      "range": 80,
+      "fireRate": 82,
+      "accuracy": 62,
+      "mobility": 32
+    },
+    "description": "Belt-fed sustained suppression machine gun capable of halting convoy vehicles and swat barricades.",
+    "status": "unconfirmed"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "_comment": "PRODUCTION NOTE: Replace this mock structure with your live healthcheck endpoint or WebSocket feed when backend servers launch (e.g. https://api.vicetools.app/v1/network-status).",
+  "lastUpdated": "2026-11-04T09:45:00Z",
+  "services": [
+    {
+      "id": "srv-ps5",
+      "name": "PlayStation 5 Network",
+      "platform": "PS5",
+      "status": "operational",
+      "pingMs": 24,
+      "uptime24h": 99.94,
+      "statusMessage": "All PS5 authentication, matchmaking, and cloud save endpoints operating normally.",
+      "history24h": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    },
+    {
+      "id": "srv-xbox",
+      "name": "Xbox Series X|S Services",
+      "platform": "Xbox",
+      "status": "operational",
+      "pingMs": 28,
+      "uptime24h": 99.88,
+      "statusMessage": "Xbox Live multi-region servers and party sync running at peak performance.",
+      "history24h": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    },
+    {
+      "id": "srv-online",
+      "name": "Vice Online Cloud Infrastructure",
+      "platform": "Cloud",
+      "status": "operational",
+      "pingMs": 32,
+      "uptime24h": 99.65,
+      "statusMessage": "Session relays, cloud matchmaking, and economy ledger clusters operating with low latency.",
+      "history24h": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1]
+    },
+    {
+      "id": "srv-social",
+      "name": "Social Club & Crew Sync",
+      "platform": "Account",
+      "status": "degraded",
+      "pingMs": 86,
+      "uptime24h": 97.42,
+      "statusMessage": "Intermittent delays observed with emblem rendering and crew leaderboard synchronization.",
+      "history24h": [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1]
+    },
+    {
+      "id": "srv-auth",
+      "name": "Cross-Platform Auth & Entitlements",
+      "platform": "Core",
+      "status": "operational",
+      "pingMs": 22,
+      "uptime24h": 99.98,
+      "statusMessage": "License verification gateways operating smoothly with 0% dropped tokens.",
+      "history24h": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    }
+  ],
+  "recentIncidents": [
+    {
+      "id": "inc-01",
+      "title": "Social Club Profile Sync Latency",
+      "severity": "minor",
+      "resolved": false,
+      "timestamp": "2026-11-04T07:15:00Z",
+      "details": "Engineers are investigating elevated response times in European and South American matchmaking clusters."
+    },
+    {
+      "id": "inc-02",
+      "title": "Scheduled Global Network Maintenance",
+      "severity": "info",
+      "resolved": true,
+      "timestamp": "2026-11-02T04:00:00Z",
+      "details": "Routine database index maintenance completed within expected 20-minute maintenance window."
+    }
+  ]
+}

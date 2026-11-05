@@ -1,0 +1,29 @@
+[
+  {
+    "id": "upd-01",
+    "title": "Interactive Map Alpha Released with Leonida Coordinates",
+    "date": "2026-11-02",
+    "category": "Map Update",
+    "badge": "NEW",
+    "summary": "We have loaded the first 20 verified and rumored point-of-interest coordinates across Vice City, Port Gellhorn, and the Keys into our Leaflet engine.",
+    "readTime": "3 min read"
+  },
+  {
+    "id": "upd-02",
+    "title": "Money & Progression Calculator Calibrated for Launch Economy",
+    "date": "2026-10-28",
+    "category": "Tool Update",
+    "badge": "UPDATED",
+    "summary": "Calculate hourly cash flow, property passive income, and time required to purchase supercars and luxury penthouses based on latest economy projections.",
+    "readTime": "4 min read"
+  },
+  {
+    "id": "upd-03",
+    "title": "Weapon & Vehicle Catalog Initial Specs Live",
+    "date": "2026-10-15",
+    "category": "Database",
+    "badge": "FEATURE",
+    "summary": "Explore 20 detailed weapon and vehicle breakdowns with interactive stat radar charts, side-by-side vehicle showdowns, and loadout cost builders.",
+    "readTime": "5 min read"
+  }
+]

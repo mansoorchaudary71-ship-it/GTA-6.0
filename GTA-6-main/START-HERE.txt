@@ -1,0 +1,10 @@
+NO GITHUB ACTIONS NEEDED. Everything here is a normal visible folder (docs).
+
+1) GitHub repo > Add file > Upload files > drag the whole docs folder in > Commit to main.
+   (Check the repo now shows a folder named docs containing index.html and assets/)
+2) Repo > Settings > Pages > Build and deployment > Source: Deploy from a branch
+   Branch: main   Folder: /docs   > Save
+3) Wait 1-2 minutes, refresh Settings > Pages. Visit site appears.
+   Site: https://mansoorchaudary71-ship-it.github.io/GTA-6/
+4) Optional cleanup: open .github/workflows/main.yml in the repo > ... menu > Delete file > Commit
+   (it is empty and only causes red failures; it does not affect the site)

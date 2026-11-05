@@ -1,0 +1,38 @@
+[
+  {
+    "id": "faq-1",
+    "question": "What is the confirmed release date for GTA 6?",
+    "answer": "Per official publisher announcements, Grand Theft Auto VI is scheduled for launch in Fall 2026 (targeted November 19, 2026). As with any major release, dates are subject to confirmation and final developer scheduling.",
+    "status": "confirmed"
+  },
+  {
+    "id": "faq-2",
+    "question": "Which platforms will GTA 6 launch on first?",
+    "answer": "The game has been officially announced for PlayStation 5 and Xbox Series X|S consoles. Previous-generation consoles (PS4, Xbox One) are not supported due to next-gen architectural and streaming requirements.",
+    "status": "confirmed"
+  },
+  {
+    "id": "faq-3",
+    "question": "When will the PC version of GTA 6 be released?",
+    "answer": "A PC version has not been officially dated yet. Following historical Rockstar release patterns (such as GTA V and Red Dead Redemption 2), a PC port typically follows 12 to 18 months after the initial console launch.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "faq-4",
+    "question": "What is the expected install size and preload window?",
+    "answer": "While unconfirmed officially, industry estimates and data projections indicate a download footprint of approximately 150 GB to 180 GB due to ultra-high-resolution photogrammetry and audio assets. Preload is typically unlocked 48 hours prior to midnight launch.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "faq-5",
+    "question": "How much will GTA 6 cost at launch?",
+    "answer": "Standard edition pricing is anticipated to follow current standard AAA pricing of $69.99 USD, with Special and Collector's physical/digital editions anticipated between $89.99 and $149.99 USD. Official pricing has not yet been listed on storefronts.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "faq-6",
+    "question": "Is Vice Tools an official Rockstar Games product?",
+    "answer": "No. Vice Tools is a 100% independent, fan-made companion website created for the community. We do not use proprietary game assets, official logos, or copyrighted game files. All data is community-sourced and analytical.",
+    "status": "confirmed"
+  }
+]

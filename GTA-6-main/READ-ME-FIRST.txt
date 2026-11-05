@@ -1,0 +1,5 @@
+1) On GitHub, DELETE .github/workflows/main.yml (it is EMPTY - that causes "No event triggers defined in on").
+   Open the file > click the 3 dots (top right) > Delete file > Commit.
+2) Add .github/workflows/pages.yml  (upload the .github folder from this zip, OR
+   Add file > Create new file > name: .github/workflows/pages.yml > paste pages.yml-copy-paste.txt > Commit).
+3) Actions tab > Deploy to GitHub Pages > Run workflow. Green tick > Settings > Pages > Visit site.

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "prop-01",
+    "slug": "starfish-island-villa",
+    "name": "Starfish Island Grand Villa",
+    "category": "Mansion",
+    "price": 12500000,
+    "income": 45000,
+    "garageSpots": 10,
+    "location": "Starfish Island, Vice City",
+    "description": "Exclusive gated waterfront estate with private deep-water dock, helipad, and surveillance security perimeter.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "prop-02",
+    "slug": "ocean-drive-art-deco-penthouse",
+    "name": "Ocean Drive Penthouse",
+    "category": "Apartment",
+    "price": 4200000,
+    "income": 18000,
+    "garageSpots": 6,
+    "location": "Ocean Beach, Vice City",
+    "description": "Top-floor multi-tiered condominium overlooking the neon strip with private roof infinity pool and lounge.",
+    "status": "confirmed"
+  },
+  {
+    "id": "prop-03",
+    "slug": "downtown-tower-executive-loft",
+    "name": "Downtown High-Rise Loft",
+    "category": "Apartment",
+    "price": 2800000,
+    "income": 12000,
+    "garageSpots": 4,
+    "location": "Downtown Financial, Vice City",
+    "description": "Modern minimalist corporate loft with floor-to-ceiling glass, ballistic glass shutters, and direct metro transit access.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "prop-04",
+    "slug": "vice-point-dockside-warehouse",
+    "name": "Port Gellhorn Freight Lockup",
+    "category": "Industrial",
+    "price": 1650000,
+    "income": 32000,
+    "garageSpots": 8,
+    "location": "Port Gellhorn Harbor",
+    "description": "High-ceiling secure distribution warehouse fitted with fork lift berths, staging cranes, and contraband vault.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "prop-05",
+    "slug": "little-haiti-underground-chop-shop",
+    "name": "Little Haiti Auto Compound",
+    "category": "Commercial",
+    "price": 950000,
+    "income": 24000,
+    "garageSpots": 6,
+    "location": "Little Haiti, Vice City",
+    "description": "Discreet commercial garage fitted with vehicle hydraulic lifts, vin-stripping workbenches, and secure stash office.",
+    "status": "confirmed"
+  },
+  {
+    "id": "prop-06",
+    "slug": "everglades-airboat-dock-cabin",
+    "name": "Grassrivers Swamp Shanty",
+    "category": "Safehouse",
+    "price": 380000,
+    "income": 6500,
+    "garageSpots": 2,
+    "location": "Kelly County Wetlands",
+    "description": "Remote stilt cabin deep in the swamps, completely off the grid and ideal for lying low away from city law enforcement.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "prop-07",
+    "slug": "vice-beach-nightclub-babylon",
+    "name": "Neon Paradise Nightclub",
+    "category": "Business",
+    "price": 7800000,
+    "income": 62000,
+    "garageSpots": 4,
+    "location": "Washington Beach",
+    "description": "Thriving electronic music venue with VIP bottle service rooms, covert underground cash counting vault, and top DJs.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "prop-08",
+    "slug": "leonida-suburban-ranch",
+    "name": "Leonida Highlands Ranch",
+    "category": "Mansion",
+    "price": 3400000,
+    "income": 15000,
+    "garageSpots": 8,
+    "location": "Leonida County Foothills",
+    "description": "Sprawling country estate with equestrian stables, private gun range, and extensive perimeter fence.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "prop-09",
+    "slug": "keys-canal-marina-slip",
+    "name": "Archipelago Marina Haven",
+    "category": "Commercial",
+    "price": 1900000,
+    "income": 19000,
+    "garageSpots": 4,
+    "location": "Southern Keys Canal",
+    "description": "Deepwater yacht slip with fueling station, dry-dock maintenance hoist, and waterside operations bungalow.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "prop-10",
+    "slug": "bayside-laundromat-front",
+    "name": "Bayside Wash & Spin Laundromat",
+    "category": "Business",
+    "price": 620000,
+    "income": 14000,
+    "garageSpots": 2,
+    "location": "Bayside Commercial strip",
+    "description": "Cash-heavy neighborhood business front with soundproofed basement rooms for money laundering operations.",
+    "status": "confirmed"
+  }
+]

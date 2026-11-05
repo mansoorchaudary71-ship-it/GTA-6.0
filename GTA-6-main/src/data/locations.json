@@ -1,0 +1,182 @@
+[
+  {
+    "id": "loc-01",
+    "name": "Vice City International Airport (South Strip)",
+    "category": "Fast Travel",
+    "lat": 25.795,
+    "lng": -80.290,
+    "description": "Primary aviation hub connecting mainland Vice City with neighboring counties and island airstrips. Fast travel terminal located at Concourse B.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "loc-02",
+    "name": "Ocean Drive Neon Strip",
+    "category": "Stores",
+    "lat": 25.782,
+    "lng": -80.130,
+    "description": "Iconic Art Deco beachfront strip packed with luxury boutique stores, high-end nightclubs, and cocktail lounges.",
+    "status": "confirmed"
+  },
+  {
+    "id": "loc-03",
+    "name": "Starfish Island Waterfront Mansion",
+    "category": "Properties",
+    "lat": 25.772,
+    "lng": -80.160,
+    "description": "Palatial estate with private boat dock, helicopter landing pad, and 8-car garage showroom.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "loc-04",
+    "name": "Vice Beach Customs Mod Shop",
+    "category": "Stores",
+    "lat": 25.790,
+    "lng": -80.142,
+    "description": "Full-service automotive tuning and paint garage specializing in retro muscle and exotic imports.",
+    "status": "confirmed"
+  },
+  {
+    "id": "loc-05",
+    "name": "Everglades Airboat Outpost",
+    "category": "Vehicles",
+    "lat": 25.740,
+    "lng": -80.450,
+    "description": "Swamp airfield staging ground where high-speed hovercrafts and twin-engine amphibious skiffs spawn.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "loc-06",
+    "name": "Port Gellhorn Container Crane Stash",
+    "category": "Hidden Items",
+    "lat": 25.845,
+    "lng": -80.185,
+    "description": "Concealed contraband cache suspended inside a decommissioned shipping container atop gantry crane 04.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "loc-07",
+    "name": "Downtown Vice Ammu-Nation & Range",
+    "category": "Stores",
+    "lat": 25.775,
+    "lng": -80.198,
+    "description": "Licensed weapons dealer equipped with an underground tactical shooting range and armor dispenser.",
+    "status": "confirmed"
+  },
+  {
+    "id": "loc-08",
+    "name": "Little Haiti Safehouse Garage",
+    "category": "Properties",
+    "lat": 25.820,
+    "lng": -80.208,
+    "description": "Low-profile residential lockup with subterranean storage and workshop for clandestine operations.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "loc-09",
+    "name": "Keys Causeway Bridge Leap",
+    "category": "Collectibles",
+    "lat": 25.680,
+    "lng": -80.350,
+    "description": "Stunt jump ramp situated across an unpaved scenic overpass leading toward the southern archipelago.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "loc-10",
+    "name": "Vice Harbor Container Yard Heist Hub",
+    "category": "Missions",
+    "lat": 25.760,
+    "lng": -80.170,
+    "description": "Logistics hub serving as the planning venue for maritime freight hijacking operations.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "loc-11",
+    "name": "Sunken Smuggler Freighter",
+    "category": "Hidden Items",
+    "lat": 25.710,
+    "lng": -80.100,
+    "description": "Underwater reef wreckage housing water-tight emergency lockboxes and diving apparatus.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "loc-12",
+    "name": "Vice Point High-Rise Penthouse",
+    "category": "Properties",
+    "lat": 25.815,
+    "lng": -80.125,
+    "description": "Luxury multi-story penthouse suite offering panoramic 360-degree ocean views and executive helipad.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "loc-13",
+    "name": "Flamingo Motel Meetup Point",
+    "category": "Missions",
+    "lat": 25.795,
+    "lng": -80.220,
+    "description": "Classic neon roadside motel used for covert handoffs and initial story syndicate meetings.",
+    "status": "confirmed"
+  },
+  {
+    "id": "loc-14",
+    "name": "Leonida County Speedway",
+    "category": "Vehicles",
+    "lat": 25.890,
+    "lng": -80.320,
+    "description": "High-banked asphalt oval track where tuned stock cars and prototype hypercars spawn periodically.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "loc-15",
+    "name": "Coral City Metro Station",
+    "category": "Fast Travel",
+    "lat": 25.768,
+    "lng": -80.215,
+    "description": "Transit metro interchange providing rapid transit between coastal districts and financial high-rises.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "loc-16",
+    "name": "North Beach Radio Tower Signal",
+    "category": "Collectibles",
+    "lat": 25.850,
+    "lng": -80.120,
+    "description": "Pioneering pirate radio broadcast transmitter beacon; scan to unlock exclusive ambient retro synth wave tracks.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "loc-17",
+    "name": "Ambrosia Sugar Refinery Depot",
+    "category": "Missions",
+    "lat": 25.730,
+    "lng": -80.380,
+    "description": "Industrial complex featuring surveillance towers and heavy security patrols protecting contraband inventory.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "loc-18",
+    "name": "Escobar Boulevard 24/7 Supermarket",
+    "category": "Stores",
+    "lat": 25.788,
+    "lng": -80.245,
+    "description": "Convenience store chain branch stocking health snacks, lottery tickets, and an operational cash register.",
+    "status": "confirmed"
+  },
+  {
+    "id": "loc-19",
+    "name": "Grassrivers Wildlife Observation Deck",
+    "category": "Collectibles",
+    "lat": 25.650,
+    "lng": -80.480,
+    "description": "Elevated wooden boardwalk deep within the wetlands; photography spot for rare indigenous fauna.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "loc-20",
+    "name": "Kelly County Marina Slip #14",
+    "category": "Vehicles",
+    "lat": 25.745,
+    "lng": -80.155,
+    "description": "Private yacht berth hosting high-performance twin-propeller offshore cigarette speedboats.",
+    "status": "unconfirmed"
+  }
+]

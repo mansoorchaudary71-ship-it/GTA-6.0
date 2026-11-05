@@ -1,0 +1,6 @@
+{
+  "name": "VICE TOOLS - GTA 6 Companion",
+  "description": "The ultimate GTA 6 companion toolkit featuring an interactive map, money & loadout calculators, vehicle & weapon database, server status, and guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

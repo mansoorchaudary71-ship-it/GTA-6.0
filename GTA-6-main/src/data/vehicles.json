@@ -1,0 +1,162 @@
+[
+  {
+    "id": "veh-01",
+    "slug": "cheetah-classic-gt",
+    "name": "Cheetah Classic GT",
+    "category": "Sports Classic",
+    "manufacturer": "Grotti",
+    "price": 890000,
+    "stats": {
+      "topSpeed": 92,
+      "acceleration": 88,
+      "handling": 85,
+      "braking": 78
+    },
+    "description": "Timeless 80s wedge profile with pop-up headlamps and a roaring mid-mounted V12 engine built for cruising Ocean Beach at dusk.",
+    "status": "confirmed"
+  },
+  {
+    "id": "veh-02",
+    "slug": "infernus-retro-s",
+    "name": "Infernus Retro S",
+    "category": "Super",
+    "manufacturer": "Pegassi",
+    "price": 1450000,
+    "stats": {
+      "topSpeed": 97,
+      "acceleration": 94,
+      "handling": 90,
+      "braking": 86
+    },
+    "description": "The quintessential exotic supercar with scissor doors, scissor wing aero package, and unmatched high-speed stability.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "veh-03",
+    "slug": "ocean-breeze-convertible",
+    "name": "Ocean Breeze Roadster",
+    "category": "Sports",
+    "manufacturer": "Benefactor",
+    "price": 320000,
+    "stats": {
+      "topSpeed": 84,
+      "acceleration": 81,
+      "handling": 88,
+      "braking": 82
+    },
+    "description": "Sleek open-top luxury cruiser made for sunny coastal drives with an active acoustic exhaust and plush leather interior.",
+    "status": "confirmed"
+  },
+  {
+    "id": "veh-04",
+    "slug": "voodoo-lowrider-custom",
+    "name": "Voodoo Lowrider Custom",
+    "category": "Muscle",
+    "manufacturer": "Declasse",
+    "price": 175000,
+    "stats": {
+      "topSpeed": 70,
+      "acceleration": 68,
+      "handling": 62,
+      "braking": 60
+    },
+    "description": "Long-wheelbase retro cruiser with heavy steel bumpers, hydraulic hop suspension, and deep velvet interior appointments.",
+    "status": "confirmed"
+  },
+  {
+    "id": "veh-05",
+    "slug": "bison-swamp-crawler-4x4",
+    "name": "Bison Swamp 4x4",
+    "category": "Off-Road",
+    "manufacturer": "Bravado",
+    "price": 140000,
+    "stats": {
+      "topSpeed": 68,
+      "acceleration": 74,
+      "handling": 70,
+      "braking": 72
+    },
+    "description": "Lifted heavy-duty utility truck fitted with snorkel exhaust, mud-terrain beadlock tires, and recovery winch for the Everglades.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "veh-06",
+    "slug": "sanchez-enduro-pro",
+    "name": "Sanchez Enduro Pro",
+    "category": "Motorcycles",
+    "manufacturer": "Maibatsu",
+    "price": 28000,
+    "stats": {
+      "topSpeed": 76,
+      "acceleration": 89,
+      "handling": 93,
+      "braking": 79
+    },
+    "description": "Lightweight single-cylinder off-road bike built for back alleys, sand dunes, and rapid obstacle clearance in tight spots.",
+    "status": "confirmed"
+  },
+  {
+    "id": "veh-07",
+    "slug": "tropic-offshore-runner",
+    "name": "Tropic 38 Offshore",
+    "category": "Boats",
+    "manufacturer": "Shitzu",
+    "price": 540000,
+    "stats": {
+      "topSpeed": 89,
+      "acceleration": 85,
+      "handling": 76,
+      "braking": 65
+    },
+    "description": "Twin-supercharged deep-V hull cigarette speedboat tailored for swift open-water contraband transport.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "veh-08",
+    "slug": "dominator-gtx-interceptor",
+    "name": "Dominator GTX Interceptor",
+    "category": "Muscle",
+    "manufacturer": "Vapid",
+    "price": 460000,
+    "stats": {
+      "topSpeed": 91,
+      "acceleration": 92,
+      "handling": 79,
+      "braking": 80
+    },
+    "description": "Supercharged American muscle sedan packed with modern telemetry, widebody arches, and tire-smoking rear-wheel power.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "veh-09",
+    "slug": "havok-stealth-chopper",
+    "name": "Swift Tactical Helo",
+    "category": "Helicopters",
+    "manufacturer": "Buckingham",
+    "price": 2200000,
+    "stats": {
+      "topSpeed": 95,
+      "acceleration": 89,
+      "handling": 91,
+      "braking": 88
+    },
+    "description": "Executive utility rotorcraft with noise-dampening tail rotor, retractable landing gear, and luxury passenger cabin.",
+    "status": "unconfirmed"
+  },
+  {
+    "id": "veh-10",
+    "slug": "coquette-d10-spider",
+    "name": "Coquette D10 Spider",
+    "category": "Super",
+    "manufacturer": "Invetero",
+    "price": 1250000,
+    "stats": {
+      "topSpeed": 94,
+      "acceleration": 93,
+      "handling": 87,
+      "braking": 84
+    },
+    "description": "Mid-engine aerodynamic masterpiece tuned for surgical precision through downtown highway interchanges.",
+    "status": "confirmed"
+  }
+]
